@@ -4,4 +4,8 @@
 
 ## 版本管理
 
-可以使用 git checkout 命令改变版本号
+可以使用 `git checkout <branch_name>` 命令改变版本号
+
+## 版本号清单
+
+- 初始测试版本 v0.1
